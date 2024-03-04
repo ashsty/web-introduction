@@ -1,0 +1,24 @@
+body{
+  font-family: "Noto Serif KR", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+button{
+  font-family: "Noto Serif KR", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align : center;
+}
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+    width : 1300px;
+}
+
